@@ -61,7 +61,7 @@ num_points_scored("Bismak Biyombo")
       return player[:shoe] if player.has_value?(player_name)
     end
   end
-
+shoe_size("Bismak Biyombo")
  end
 
  def team_colors(team)
