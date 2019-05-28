@@ -50,7 +50,7 @@ end
       return player[:points] if player.has_value?(player_name)
     end
   end
-
+num_points_scored("Bismak Biyombo")
  end
 
 
