@@ -98,7 +98,7 @@ end
       end
     end
   end
-
+player_stats("Bismak Biyombo")
  end
 
  def big_shoe_rebounds
